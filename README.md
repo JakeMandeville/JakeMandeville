@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JakeMandeville/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JakeMandeville/ticket-lifecycle)
 - <b>Setting up a VPN</b>
+  - [Setting up a VPN using ProtonVPN](https://github.com/JakeMandeville/configure-ad)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JakeMandeville/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JakeMandeville/azure-network-protocols)
