@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jake, an <a href="https://www.linkedin.com/in/jake-mandeville/">IT Professional</a></h1>
+<h1>Hi, I'm Jake, an <a href="https://www.linkedin.com/in/jake-mandeville/">Cybersecurity Professional</a></h1>
+
+I have skills in detailed documentation using Microsoft Office products, Problem solving/troubleshooting skills, and strong communication skills. I value assisting others with their problems as well as honesty and transparency. I am looking to break into the cybersecurity field to have a deeper understanding of how the logistics of hacking and protection against hackers work. This is already in line with my previous job and certification experience I have gathered over the years, and the skills I have built throughout the years from them. I have a strong sense of ethics and doing the right thing so I would love to be able to aid an organization and users in protecting themselves against attackers.
 
 <h2>Information Technology Projects:</h2>
 
